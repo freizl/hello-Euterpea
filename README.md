@@ -6,6 +6,10 @@
 
 *Ideally, Euterpea would support to render music sheet*
 
+## Question
+
+- Is there way to play midi file in MacOS?
+
 ## References
 
 - http://euterpea.com/
